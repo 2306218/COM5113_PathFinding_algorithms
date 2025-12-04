@@ -17,10 +17,12 @@ This repository includes my implementation of the required path-finding algorith
 
 
 **Features**
+
 Custom LinkedList, Queue, Stack, PriorityQueue
 Object-oriented design (algorithms in separate classes)
 Console application for loading maps, running algorithms, and outputting paths
 Simple WinForms graphical viewer for displaying maps and final paths
 
 **Notes**
+
 This repository includes only .cs source files, as are needed for submission.
